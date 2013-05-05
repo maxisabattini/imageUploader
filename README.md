@@ -12,4 +12,4 @@ Modern ImageUploader
 
 ##Screenshot
 
-[[/screenshot.png|align=center]]
+![](https://github.com/maxisabattini/imageUploader/blob/master/screenshot.png?raw=true)
